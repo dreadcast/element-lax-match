@@ -1,0 +1,20 @@
+{
+	"name": "element-lax-match",
+	"version": "0.0.1",
+	"homepage": "https://github.com/dreadcast/element-lax-match",
+	"description": "Checks if `target` element is passed `element` or one of its children within passed context",
+	"author": "Raphael Gully",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:dreadcast/element-lax-match.git"
+	},
+	"license": "WTFPL",
+	"keywords": [
+		"dom",
+		"delegation",
+		"event",
+		"utils"
+	],
+
+	"main": "src/element-lax-match.js"
+}
